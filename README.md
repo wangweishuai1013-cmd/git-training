@@ -5,3 +5,4 @@
 - [ ] 新增报价单模块
 
 # Git Training - Feature Demo2
+Browser Automation Lv1-B training marker
