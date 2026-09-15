@@ -6,3 +6,4 @@
 
 # Git Training - Feature Demo2
 Browser Automation Lv1-B training marker
+LV8-SAFE-AUTOMATION-TRAINING
